@@ -4,7 +4,7 @@ Operation supported for the user
 * Add a meal
 * Delete a meal
 * Update a meal
-* Get Track of the total calories taken
+* Get Track of the total calories added
 
 The website is using the local storage of the browser for storing the data.
 
